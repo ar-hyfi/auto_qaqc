@@ -1,82 +1,96 @@
-﻿site_name,max,min,type
-1 Greenfield just south of Prospect,3220,1000,dearborn_road
-11 M39 southbound ramp service drive & Michigan,4500,1000,dearborn_road
-12 Michigan & Miller,6600,4000,dearborn_road
-14 Rotunda just west of Southfield,2640,1000,dearborn_road
-15 Ford and Evergreeen,4000,2500,dearborn_road
-17 Eagle Pass,4850,2000,dearborn_road
-18.1 Gulley over River Rouge,5600,1400,dearborn_river
-18.3 Outer Drive over River Rouge,8600,3000,dearborn_river
-18.4 Military over River Rouge,6000,1000,dearborn_river
-18.5 Rotunda over River Rouge,5600,1000,dearborn_river
-18.6 Greenfield over River Rouge,5200,1500,dearborn_river
-20 GLWA Hubble Southfield (Rotunda and north side of Rouge River),5500,1000,dearborn_river
-21 Chase & Colson,3400,2200,dearborn_road
-23 Telegraph median at Myrtle,5400,500,dearborn
-"24.1 V-124, Grand Trunk/Schaefer",7000,4500,dearborn_road
-"24.2 V-125, Conrail/Schaefer",7000,5000,dearborn_road
-"24.3 V-126, Schaefer south of Hemlock",3300,2000,dearborn_road
-25.1 Oakman & Ford West,3900,2500,dearborn_road
-25.2 Oakman & Ford South,3150,2500,dearborn_road
-25.3 Ford & Miller,3200,2500,dearborn_road
-3 Wyoming & Southern,7500,5000,dearborn_road
-4 Outer Drive south of Michigan Ave,4000,2000,dearborn_road
-5 Telegraph & Michigan,8000,4000,dearborn_road
-"8 Wyoming, Ferney, & Dix",8000,6000,dearborn_road
-9 Oakwood north of Park,3190,2500,dearborn_road
-"All Purpose Trail, 95CR+9W",3000,500,neorsd
-"Bainbridge Road,9MQQ+6H",1800,500,neorsd
-BDPA09 Basin Outlet BD00298,2000,1000,neorsd
-BDPA09 Culverted Stream (LSS) Inlet (south),3000,500,neorsd
-Beechers - Basin at Mayfield HS,2600,500,neorsd
-Beechers - Progressive,4000,500,neorsd
-Beechers - Woodlane Dr Outlet,2500,500,neorsd
-"Bell Street,CMP6+49",2450,500,neorsd
-Bunker Road,2800,500,neorsd
-Calvary Cemetery,5250,500,neorsd
-Cedarwood Estates Upper Basin (BD00302),2200,0,neorsd
-"Chagrin River Road,HH2M+3V",7000,500,neorsd
-"Chagrin Road,CJF7+FH",2100,1400,neorsd
-Chatham Culvert,3500,500,neorsd
-Chevy Basin Outlet Structure WB00125,4000,500,neorsd
-"Chillicothe Road,FM95+RX",6400,3000,neorsd
-"Chillicothe Road,FMQ6+X4",5000,1400,neorsd
-"Dead Stream Flooding,95H4+GM94",1000,500,
-"Dinger's Marsh,HH6M+7X",2000,500,neorsd
-"Eagle Mills Road,JH3V+8W",7000,500,neorsd
-Engle Road & Brookpark Rd Outlet,4200,500,neorsd
-Erwin Avenue; WB00097,2050,500,neorsd
-"Hawksmoor,9JP6+CP",4000,500,neorsd
-Howard Marsh Phase 2 Wetland Unit Side,3000,500,
-Hummel Road,4600,500,neorsd
-Kirtland Historic Center,7000,0,neorsd
-"Kolleda Ditch,C55M+9HG",4000,500,
-"Lake Shore Boulevard,MH79+F9",2800,500,neorsd
-"Lake Shore Boulevard,MH9G+M9",7250,500,neorsd
-Lee Road DB00054,5000,3000,neorsd
-Marymount and E126 MC00056,4000,2000,neorsd
-"Mayfield Road,GHHP+WJ",7600,500,neorsd
-Middlebrook Basin AC00101,2600,500,neorsd
-Mill Creek MC00094,5200,1200,neorsd
-Nature Center at Shaker Lakes,3000,500,neorsd
-"Oak Park Avenue,C7GP+M2",4400,500,neorsd
-Oakridge Dr BC00368,2200,500,neorsd
-"Pettibone Road,9J6J+QR",4000,500,neorsd
-"Pleasant Valley Road,HHQW+RX",8000,500,neorsd
-Plum Creek,3000,500,neorsd
-Ridge Road BC00354,5500,500,neorsd
-"Ridge Road,77M4+M4",4400,2000,neorsd
-RMPA02 Control Structure South of Local Basin,6000,0,neorsd
-RMPA02 Inlet of Culverted Stream RT00007,3500,1000,neorsd
-S. Woodland Road; DB00090,2950,500,neorsd
-Schady Rd MN00400,3000,500,neorsd
-"South Leroy Street,Q7VV+WXG",5000,3500,
-Stickney Creek; ST00228A,3000,500,neorsd
-Thorton Farms Phase III,2500,1400,
-"Trails End,8M8C+W8",2050,500,neorsd
-Upstream of Culverted Stream (BC00039),2000,500,neorsd
-West Creek1,5600,500,neorsd
-West Creek2 Crile Connector,3200,500,neorsd
-West Creek3,2000,500,neorsd
-"West Island Drive,MHC9+6H",3000,500,neorsd
-"Bennington Road,WWJG+58",7000,5000,
+﻿site_name,max,min,type,notifications
+1 Greenfield just south of Prospect,3220,1000,dearborn_road,
+11 M39 southbound ramp service drive & Michigan,4500,1000,dearborn_road,
+12 Michigan & Miller,6600,4000,dearborn_road,
+14 Rotunda just west of Southfield,2640,1000,dearborn_road,
+15 Ford and Evergreeen,4000,2500,dearborn_road,
+17 Eagle Pass,4850,2000,dearborn_road,
+18.1 Gulley over River Rouge,5600,1400,dearborn_river,
+18.3 Outer Drive over River Rouge,8600,3000,dearborn_river,
+18.4 Military over River Rouge,6000,1000,dearborn_river,
+18.5 Rotunda over River Rouge,5600,1000,dearborn_river,
+18.6 Greenfield over River Rouge,5200,1500,dearborn_river,
+20 GLWA Hubble Southfield (Rotunda and north side of Rouge River),5500,1000,dearborn_river,
+21 Chase & Colson,3400,2200,dearborn_road,
+23 Telegraph median at Myrtle,5400,500,dearborn,
+"24.1 V-124, Grand Trunk/Schaefer",7000,4500,dearborn_road,
+"24.2 V-125, Conrail/Schaefer",7000,5000,dearborn_road,
+"24.3 V-126, Schaefer south of Hemlock",3300,2000,dearborn_road,
+25.1 Oakman & Ford West,3900,2500,dearborn_road,
+25.2 Oakman & Ford South,3150,2500,dearborn_road,
+25.3 Ford & Miller,3200,2500,dearborn_road,
+3 Wyoming & Southern,7500,5000,dearborn_road,
+4 Outer Drive south of Michigan Ave,4000,2000,dearborn_road,
+5 Telegraph & Michigan,8000,4000,dearborn_road,
+"8 Wyoming, Ferney, & Dix",8000,6000,dearborn_road,
+9 Oakwood north of Park,3190,2500,dearborn_road,
+"ABCWSD 1 (Ewing), 28MJ+9C",2400,700,,yes
+ABCWSD 3 (West Blvd),3900,1000,,yes
+"All Purpose Trail, 95CR+9W",3000,500,neorsd,
+"Bainbridge Road,9MQQ+6H",1800,500,neorsd,
+BDPA09 Basin Outlet BD00298,2000,1000,neorsd,
+BDPA09 Culverted Stream (LSS) Inlet (south),3000,500,neorsd,
+Beechers - Basin at Mayfield HS,2600,500,neorsd,
+Beechers - Progressive,4000,500,neorsd,
+Beechers - Woodlane Dr Outlet,2500,500,neorsd,
+"Bell Street,CMP6+49",2450,500,neorsd,
+"Bennington Road,WWJG+58",7000,5000,,yes
+Bunker Road,2800,500,neorsd,
+Byron Dam,1700,500,,yes
+Calvary Cemetery,5250,500,neorsd,
+Cedarwood Estates Upper Basin (BD00302),2200,0,neorsd,
+"Chagrin River Road,HH2M+3V",7000,3000,neorsd,yes
+"Chagrin Road,CJF7+FH",2100,1400,neorsd,
+Chatham Culvert,3500,500,neorsd,
+Chevy Basin Outlet Structure WB00125,4000,500,neorsd,
+"Chillicothe Road,FM95+RX",6400,3000,neorsd,
+"Chillicothe Road,FMQ6+X4",5000,1400,neorsd,
+"Dead Stream Flooding,95H4+GM94",1000,500,,
+"Dinger's Marsh,HH6M+7X",2000,500,neorsd,yes
+"Ditch Road,4VV7+JXV",6500,3000,,yes
+"Eagle Mills Road,JH3V+8W",7000,500,neorsd,
+Engle Road & Brookpark Rd Outlet,4200,500,neorsd,
+Erwin Avenue; WB00097,2050,500,neorsd,
+"Hawksmoor,9JP6+CP",4000,500,neorsd,
+Howard Marsh Phase 2 Wetland Unit Side,3000,500,,
+Hummel Road,4600,500,neorsd,
+Kirtland Historic Center,7000,0,neorsd,
+"Kolleda Ditch,C55M+9HG",4000,500,,
+Lake Erie Cullen Park,4000,1000,,yes
+Lake George,2300,1000,,yes
+"Lake Shore Boulevard,MH79+F9",2800,500,neorsd,
+"Lake Shore Boulevard,MH9G+M9",7250,500,neorsd,
+Lee Road DB00054,5000,3000,neorsd,
+"Maple Street,R3F3+JP8",7000,1000,,yes
+Marymount and E126 MC00056,4000,2000,neorsd,
+Maumee River MLK Bridge,3800,600,,yes
+"Mayfield Road,GHHP+WJ",7600,500,neorsd,
+Middlebrook Basin AC00101,2600,500,neorsd,
+Mill Creek MC00094,5200,1200,neorsd,
+Mitchell Lakes,2980,1000,,yes
+Nature Center at Shaker Lakes,3000,500,neorsd,
+"North Bridge Street,R688+8P4",5250,1000,,yes
+"Oak Park Avenue,C7GP+M2",4400,500,neorsd,
+Oakridge Dr BC00368,2200,500,neorsd,
+Oxbow NWR North Pond low water crossing and outlet,1500,500,,yes
+"Pettibone Road,9J6J+QR",4000,500,neorsd,
+"Pleasant Valley Road,HHQW+RX",8000,500,neorsd,
+Plum Creek,3000,500,neorsd,
+Rainbow Lake Dam,2200,700,,yes
+Ridge Road BC00354,5500,500,neorsd,
+"Ridge Road,77M4+M4",4400,2000,neorsd,
+RMPA02 Control Structure South of Local Basin,6000,0,neorsd,
+RMPA02 Inlet of Culverted Stream RT00007,3500,1000,neorsd,
+S. Woodland Road; DB00090,2950,500,neorsd,
+Schady Rd MN00400,3000,500,neorsd,
+Site 1 (bridge),4400,600,,yes
+Site 2B (marsh),2200,500,,yes
+"South Leroy Street,Q7VV+WXG",5000,3500,,yes
+Stickney Creek; ST00228A,3000,500,neorsd,
+Thorton Farms Phase III,2500,1400,,
+"Trails End,8M8C+W8",2050,500,neorsd,
+Upstream of Culverted Stream (BC00039),2000,500,neorsd,
+West Creek1,5600,500,neorsd,
+West Creek2 Crile Connector,3200,1000,neorsd,yes
+West Creek3,2000,500,neorsd,yes
+"West Island Drive,MHC9+6H",3000,500,neorsd,
