@@ -1,1 +1,1 @@
-{"previous_day_tubes": {"no_maxbotix": [], "no_vbat": [], "vbat_low": [], "charged":[]}}
+{"previous_day_tubes": {"no_maxbotix": ["wtd29018marv", "wtd29004marv", "mpa27180marv", "mpa27144marv", "mpa27105marv", "mpa27074marv", "mpa27072marv", "mpa27034marv", "mpa27081marv"], "no_vbat": ["wtd29018marv", "wtd29004marv", "mpa27180marv", "mpa27144marv", "mpa27105marv", "mpa27074marv", "mpa27072marv", "mpa27034marv", "mpa27081marv"], "vbat_low": ["mpa27146marv", "mpa27080marv", "mpa27006marv"], "charged": []}}
