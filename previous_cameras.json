@@ -1,1 +1,5 @@
-p
+{
+    "previous_day_cameras": {
+        "vbat_low": []
+    }
+}
