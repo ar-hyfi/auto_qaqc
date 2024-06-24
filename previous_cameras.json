@@ -1,1 +1,1 @@
-{"previous_day_cameras": {"vbat_low": [], "no_vbat": ["wte19001cami", "wtd47001cami", "wtd26009cami", "wtd23002cami", "wtd26006cami", "wtd26005cami", "wtd26003cami", "wtd26001cami"]}}
+{"previous_day_cameras": {"vbat_low": ["wtd26007cami"], "no_vbat": ["wte19001cami", "wtd47001cami", "wtd26009cami", "wtd23002cami", "wtd26006cami", "wtd26005cami", "wtd26003cami", "wtd26001cami"]}}
