@@ -1,1 +1,12 @@
-
+{
+    "previous_day_tubes": {
+        "no_data": [],
+        "no_vbat": [],
+        "vbat_low": [],
+        "charged": [],
+        "no_humidity": [],
+        "humidity_60_to_70": [],
+        "humidity_70_to_80": [],
+        "humidity_80_plus": []
+    }
+}
